@@ -5,26 +5,26 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 在 localhost:8080 进行热更新加载开发
 npm run dev
 
-# build for production with minification
+# 构建压缩生产包
 npm run build
 
-# build for production and view the bundle analyzer report
+# 构建生产包并绑定分析报告
 npm run build --report
 
-# run unit tests
+# 运行单元测试
 npm run unit
 
-# run e2e tests
+# 运行e2e测试
 npm run e2e
 
-# run all tests
+# 运行所有测试
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+有关如何工作的详细说明，请查看 [guide](http://vuejs-templates.github.io/webpack/) 和 [docs for vue-loader](http://vuejs.github.io/vue-loader).
