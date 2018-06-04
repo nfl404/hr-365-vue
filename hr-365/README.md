@@ -28,3 +28,4 @@ npm test
 ```
 
 有关如何工作的详细说明，请查看 [guide](http://vuejs-templates.github.io/webpack/) 和 [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
